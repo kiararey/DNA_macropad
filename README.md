@@ -1,5 +1,6 @@
 # DNA_macropad
-For hardcore DNA writing
+For hardcore DNA writing 😤
+Get rid of all pesky useless letters on your keyboard and upgrade your DNA/RNA design experience
 
 I'm following a combination of guides to make this:
 
